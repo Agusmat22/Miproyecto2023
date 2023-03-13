@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+
+.titulo {
+   padding-left: 8px;
+   text-decoration:underline;
+}
+
+h3 {
+    padding-left: 8px;
+}
+
+.datosIngresados {
+
+    border-style: solid;
+    border-color: blueviolet;
+    margin: 40px 250px 60px 140px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+CLASES ACCEDER
+
+ID SE ACCEDE
+
+#nombre del id{}
+
+CLASS
+
+.nombre de la clase{}
+
+SELECCTOR UNIVERSAL
+
+* {}
+
+TRANSFORMAR TEXTO MINUSCULA O MAYUSCULA
+
+text-transform: uppercase o lowercase;
+
+
+
+AGREGAR UNA IMAGEN DESCARGADA o POR INTERNET
+
+background-image: url("MI PROYECTO 2023/y el nombre de la img")
+
+background-image: url(link de la img)
+
+
+
+//POSICIONAR ALTURA ANCHURA, ESPACIOS ETC
+
+//centrar una imagen descargada   
+background-position: center center;
+
+//tamaños
+
+width: 
+heigth:
+
+//bordes
+
+un borde en todo el recuadro del div
+border-style: solid;
+
+para cambiar el color del borde
+border-color: 
+
+ancho del borde
+border-widht: 
+
+eliminar un borde del recuadro
+border-left,top,buttom, etc : none;
+
+//padding es el espacion interno
+
+padding:
+
+//margin es el espacion externo
+
+margin: 
+
+//CAMBIAR LA FUENTE DEL TEXTO 
+
+font-family: 
+
+//CAMBIAR DE MAS NEGRITA O MAS FINITA LA LETRA
+
+font-weight: 
+
+ //PARA PODER CAMBIAR LA ALTURA Y EL ANCHO 
+
+ display: inline-block
+
+
+ //SI QUEREMOS MOVER UN SPAN O UN ELEMENTO INLINE ;
+
+ float: left,right etc
+
+
+ //POSICION RELATIVA PARA MOVER UN DIV
+ ESTO SE POSICION EN RELACION AL POSICIONAMIENTO ORIGNAL
+ 
+ position: relative;
+ left:
+ right: 
+ etc
+
+ //POSICION FIXED PARA UN DIV
+ ELIMINA EL ESPACIO SOBRANTE Y LO PODEMOS MOVER DONDE QUERAMOS
+ AUNQUE HAGAMOS SCROLL EL DIV SE VA MANTENER EN EL MISMO LUGAR
+ position: fixed;
+ left: 0px;
+ right: 
+ etc
+
+ //POSICION ABSOLUTO PARA UN DIV
+
+ position: absolute;
+
+
+
+
+
+
+
+*/
